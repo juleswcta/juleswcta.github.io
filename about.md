@@ -1,17 +1,35 @@
-# About Me
-Hello! I am Jules!!
-I wanna be an astronomer because I like space. 
-This means I have to take rigorous classes throughout my life though..
-At least taking Adv CS will give me the skills I need to succeed, such as project management and technical skills. 
-SkillsUSA and TSA best fits my aspirations.
-Science Olympiad will help me prepare for my future career goals.
-I am a so/sp 9w1 27 ISFP SEI Fi-Se/Ni-Te slo|A|I AoTI|E|G VEFL melancholic-sanguine
-no i am not so5 
+# hello, i'm jules ♡
 
+welcome to my little corner of the universe ✧
 
-<img width="216" height="288" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/c9b2da6e-f2ac-4c70-91cd-a288fe7ce783" />
+<img width="216" height="288" alt="A picture of Jules" src="https://github.com/user-attachments/assets/c9b2da6e-f2ac-4c70-91cd-a288fe7ce783" />
+
+───୨ৎ───
+
+## ✿ About Me
+
+I'm Jules, a student who loves space, technology, and discovering how things work. I hope to become an astronomer someday, so I’m working toward that dream one class and one curious question at a time.
+
+## ☾ Looking Toward the Stars
+
+Astronomy is something I care deeply about. The universe is enormous, mysterious, and full of things I want to understand. My classes and activities are helping me build the skills I’ll need for the future, including project management, problem-solving, and technical skills.
+
+## ✦ Things I’m Involved In
+
+- **Advanced Computer Science** — growing my programming and technical skills
+- **SkillsUSA** — developing practical skills and exploring future opportunities
+- **TSA** — connecting creativity, technology, and problem-solving
+- **Science Olympiad** — preparing for my future in science
+
+## ♡ A Few Personality Notes
+
+I'm a so/sp 9w1, 27, ISFP, SEI, Fi-Se/Ni-Te, slo|A|I, AoTI|E|G, VEFL, melancholic-sanguine.
+
+And no, I am **not** a so5 ♡
+
+───୨ৎ───
 
 ## Navigation
-[Notebook](notebook.md)
 
-[Home](index.md)
+[← back home](index.md)  
+[visit my notebook →](notebook.md)
