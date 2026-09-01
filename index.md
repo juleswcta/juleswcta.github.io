@@ -14,6 +14,8 @@ i'm a student, creator, and aspiring astronomer who enjoys space, technology, an
 
 ### Projects in progress
 
+**🎮 [space-shooter-w-so9](space-shooter-w-so9/)** — a pygame-based space shooter game. fight off the e5s as so9! built with python and pygame.
+
 i'm still building this collection, but new projects will be appearing here soon.
 
 > every project starts as a little idea ♡
