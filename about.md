@@ -23,7 +23,7 @@ Astronomy is something I care deeply about. The universe is enormous, mysterious
 
 ## ♡ A Few Personality Notes
 
-I'm a so/sp 9w8, 26, ISFP, SEI, Fi-Se/Ni-Te, slo|A|I, AoTI|E|G, VEFL, melancholic-sanguine.
+I'm a so/sp 9w8, 26, ISFP, SEI, Fi-Se/Ni-Te, slo|A|I, AoTI|E|G, FEVL, melancholic-sanguine.
 
 And no, I am **not** a so5 ♡
 
